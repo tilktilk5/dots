@@ -16,6 +16,8 @@ ffmpegthumbs
 file
 findutils
 firefox
+flameshot
+flashplayer-standalone
 flex
 gawk
 gcc
@@ -42,12 +44,15 @@ pavucontrol
 pkgconf
 plasma-meta
 proton-ge-custom
+python-pywal
 python-pywalfox
 sed
+spotify
 steam
 sudo
 terminator
 texinfo
+tty-clock-git
 vim
 wget
 which
