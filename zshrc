@@ -46,8 +46,8 @@ alias pac='sudo pacman'
 alias clock='tty-clock -cBt'
 alias prime='sudo prime-run'
 alias ytdl='youtube-dl -x'
-alias rm+'rm -rfv'
-
+alias rm='rm -rfv'
+#alias btm='btm -b'
 # History, past command matching the current line up to the current cursor position will be show when <up> 
 # or <down> keys are pressed
 
