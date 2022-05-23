@@ -6,6 +6,7 @@ bison
 bitwig-studio
 bottles
 bottom
+bpython
 caffeine-ng
 cava
 cpupower
@@ -35,6 +36,7 @@ gzip
 libtool
 linux
 linux-firmware
+linux-zen
 m4
 make
 man-db
@@ -50,6 +52,7 @@ openmw
 pacman
 patch
 pavucontrol
+pcsx2
 pkgconf
 plasma-meta
 plasma-wayland-session
