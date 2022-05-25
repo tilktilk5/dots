@@ -42,7 +42,7 @@ bindkey '^ ' autosuggest-accept
 alias list='exa -lha --group-directories-first'
 alias ls='exa --group-directories-first --oneline'
 alias edit='sudo vim'
-alias pac='sudo pacman'
+alias pac='sudo yay'
 alias clock='tty-clock -cBt'
 alias prime='sudo prime-run'
 alias ytdl='youtube-dl -x'
